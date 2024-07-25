@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainScreen.swift
 //  TrackMe
 //
 //  Created by Daniil Pinigin on 25.07.2024.
@@ -7,13 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainScreen: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = .red
     }
-
 
 }
 

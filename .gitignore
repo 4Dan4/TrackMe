@@ -1,0 +1,50 @@
+# Swift
+*.swift
+*.swiftdoc
+*.swiftsourceinfo
+*.xcodeproj
+*.xcworkspace
+DerivedData
+build/
+*.xcuserdatad
+*.xcscmblueprint
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Xcode
+*.xcuserstate
+*.xcuserdata
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Coverage
+*.xccoverage
+*.gcno
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Bundler
+/.bundle
+/vendor/bundle
+Gemfile.lock
+
